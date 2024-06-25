@@ -2,7 +2,7 @@
 
 I'm Tabeth and I'm from Zimbabwe, living in Canada. I do Data Analysis and Data Science. I enjoy using tools like Python, Tableau, and Power BI to analyze data and derive insights that inform management on the best course of action.
 
-Skills: Python/Tableau/SQL/Power BI
+Skills: Python/Tableau/SQL/Power BI/Excel
 
 - 🔭 I’m currently working on Public finance sector datasets in predictive modeling and analytics 
 - 🌱 I’m currently learning Alteryx 
